@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Delta Force Hawk Ops Exploit banner"/>
+<img src="https://github.com/DelugeGrub81/delta-force-hawkops-enhancer/raw/main/assets/banner.svg" width="100%" alt="Delta Force Hawk Ops Exploit banner"/>
 
 # delta-force-hawkops-enhancer 🦅⚙️
 
